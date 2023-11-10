@@ -1,4 +1,4 @@
-# critical_alert_card_in_homassistant
+# Карточка критических уведомлений в Lovelace Home Assistant
 Карточка критических уведомлений в интерфейсе Lovelace хаба умного дома Home Assistant
 
 Видео демонстрация: https://www.youtube.com/shorts/MU8A0x3SVp0
